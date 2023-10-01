@@ -1,6 +1,9 @@
 # HiyoriRin
 
-hello, world.
+hello, world.  
+ひより りん です  
+"ひよりん"ってよんでね  
+よろしくおねがいします🐾
 
 ## リンク
 
