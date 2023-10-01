@@ -9,7 +9,6 @@ hello, world.
 
 - [Instagram](https://www.instagram.com/hiyori_rin.ff14/)
 - [Threads](https://www.threads.net/@hiyori_rin.ff14)
-<!--
 - [Eostagram](https://eostagram.com/@HiyoriRin)
 - [FF14-Mastodon](https://ffxiv-mastodon.com/@HiyoriRin)
 
